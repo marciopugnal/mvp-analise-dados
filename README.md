@@ -1,4 +1,4 @@
-# mvp-analise-dados
+# 📊 mvp-analise-dados
 
 # 🎲 Análise de Dados e Boas Práticas com um Dataset de Jogos de Tabuleiro.
 
