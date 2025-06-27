@@ -14,11 +14,11 @@ O conjunto de dados foi extraído da plataforma [kaggle] [fonte: https://www.kag
 - Realizar análise exploratória com insights descritivos e gráficos.
 - Aplicar boas práticas em limpeza, tratamento e visualização dos dados.
 - Verificar estatísticas descritivas relevantes.
-- Executar pré-processamento de dados para análises futuras.
+- Executar pré-processamento de dados com transformação de dados para análises futuras.
 
 ### 💼 Ferramentas Utilizadas
 
-- Python com bibliotecas: 'Pandas', 'NumPy', 'Seaborn', 'Matplotlib', 'Plotly', 'Scikit-learn'
+- Python com bibliotecas: 'Pandas', 'NumPy', 'Math', 'Seaborn', 'Matplotlib', 'Plotly', 'Sklearn', 'Scikit-learn'
 - Jupyter Notebook
 - Google Colab e GitHub
 - Markdown para documentação
