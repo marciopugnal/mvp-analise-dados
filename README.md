@@ -3,7 +3,7 @@
 ### 🎲 Análise de Dados e Boas Práticas de um dataset de "Jogos de Tabuleiro".
 
 Este projeto tem como objetivo explorar, analisar e aplicar boas práticas de Ciências de Dados em um dataset contendo informações sobre avaliações e informações sobre Jogos de Tabuleiro. 
-O desafio é extrair insights significativos do conjunto de dados para identificar tendências, fatores de popularidade, padrões de comportamento e relações entre o jogo e o jogador.
+O desafio é extrair insights significativos do conjunto de dados para identificar tendências, fatores de popularidade, padrões de comportamento e relações entre o jogo e o jogador junto à comunidade.
 
 ### 🧩 Sobre o Dataset
 
