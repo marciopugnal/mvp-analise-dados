@@ -11,7 +11,7 @@ O conjunto de dados foi extraído da plataforma [kaggle] [fonte: https://www.kag
 
 ### 📌 Objetivos da Análise
 
-- Realizar análise exploratória para extração de insights quantitativos por meio de estatísticas descritivas e visualizações analíticas.
+- Realizar análise exploratória para extração de insights quantitativos e visualizações analíticas.
 - Aplicar as boas práticas, limpeza, tratamento e visualização dos dados.
 - Verificar estatísticas descritivas relevantes para compreensão da distribuição e variabilidade dos dados.
 - Executar pré-processamento de dados com transformação de dados para análises futuras.
